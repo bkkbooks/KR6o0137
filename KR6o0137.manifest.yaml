@@ -1,0 +1,54 @@
+canonical_identifier: bkk:krp/KR6o0137/v1
+canonical_location: https://kanripo.org/bkk/KR6o0137/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 七佛讚唄伽他
+  identifiers:
+    alt_id:
+    - T32n1682
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T32/T32n1682.xml
+    old_id: T32n1682
+  edition:
+    short: bkk
+editions:
+- short: 明
+  label: 明
+  source_xml_id: wit1
+- short: 宋
+  label: 宋
+  source_xml_id: wit2
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit4
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6o0137_000.yaml, hash: 'sha256:8b97bbc7d4cd36f8435105f45a144e142f54beac27c43dd25ac564ce9b0d2b7d'}
+  - {seq: 1, filename: KR6o0137_001.yaml, hash: 'sha256:2358129600a843cb51bdb4ff6ee78bd036b6da6a85ed7a06d5fd972ca73de470'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6o0137_001.markers.yaml, hash: 'sha256:cadfe64cf10ae456be8a5019ca4fa1e508bae5a8f269486180c67e29c451a1d7'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6o0137_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1080
+  label: 七佛讚唄伽他
+  type: juan
+  level: 1
+hash: sha256:49aa7acd6ed5b448620f293c5223a0de6802003a8211a3c792d650946d70d85a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6o0137/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 七佛讚唄伽他
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T32/T32n1682.xml
+    old_id: T32n1682
+hash: sha256:8b97bbc7d4cd36f8435105f45a144e142f54beac27c43dd25ac564ce9b0d2b7d
